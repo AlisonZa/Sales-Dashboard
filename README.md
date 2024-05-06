@@ -2,7 +2,7 @@
 
 ## ℹ️ Description
 
-Welcome to our Sales Dashboard! This Power BI dashboard offers a deep dive into the sales, cost, and profitability of our store, specializing in Computers, TV and Video, and Audio Goods.
+This Power BI dashboard offers a deep dive into the sales, cost, and profitability of our store, specializing in Computers, TV and Video, and Audio Goods.
 
 ## 🔍 Key Features
 
