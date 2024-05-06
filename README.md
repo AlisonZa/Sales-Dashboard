@@ -23,10 +23,3 @@ Welcome to our Sales Dashboard! This Power BI dashboard offers a deep dive into 
 - **Access:** Simply click [here](https://app.powerbi.com/groups/me/reports/7fe46ea1-602d-4010-b86e-a6b34552c7a4/ReportSection56a977c516711d0126af?experience=power-bi) to access the dashboard.
 - **Interactivity:** Use the dashboard like a pro! Click on graphics to filter data and utilize drill-downs for more detailed insights.
 
-## 🤝 Contributing
-
-- We welcome contributions, feedback, and suggestions! Please reach out to us at [your.email@example.com](mailto:your.email@example.com).
-
-## 📜 License
-
-This project is licensed under the [License Name] License. See the [LICENSE.md](LICENSE.md) file for details.
